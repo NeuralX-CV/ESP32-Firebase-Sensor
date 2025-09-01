@@ -86,7 +86,7 @@ DHT sensor library by Adafruit
 3. Configure and Upload
 Clone the Repository:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/NeuralX-CV/ESP32-Firebase-Sensor.git](https://github.com/NeuralX-CV/ESP32-Firebase-Sensor.git)
 cd your-repo-name
 
 Add Your Credentials: Open the main.cpp file and update the following lines with your own credentials from the Firebase setup and your Wi-Fi details.
